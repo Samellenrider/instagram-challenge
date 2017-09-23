@@ -1,5 +1,6 @@
 require File.expand_path('../../config/environment', __FILE__)
 require 'rails/test_help'
+require 'features/post_pic_spec'
 
 class ActiveSupport::TestCase
   # Setup all fixtures in test/fixtures/*.yml for all tests in alphabetical order.
